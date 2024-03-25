@@ -1,0 +1,15 @@
+body{
+    border:10px solid black;
+    margin: 5%;
+}
+section{
+    text-align: center;
+    border: 10px solid wheat;
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    
+}
+img{
+    width: 100%;
+}

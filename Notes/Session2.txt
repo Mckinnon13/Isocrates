@@ -1,0 +1,14 @@
+Objects
+Switch case
+Object destructuring
+Array destructuring
+Spread Operator
+Iterators
+for i 'of' Array
+for i in abc
+asyncronous & syncronous
+callback
+promise-
+    pending state
+    fullfilled state
+    rejected state
